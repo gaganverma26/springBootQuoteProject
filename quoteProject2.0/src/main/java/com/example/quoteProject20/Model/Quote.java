@@ -30,4 +30,6 @@ private Long id;
     @OneToMany(mappedBy = "quote")
     private List<Likes> like = new ArrayList<>();
 
+    ///heloo change in my file
+
 }
